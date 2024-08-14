@@ -65,8 +65,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or feedback, please feel free to reach out at [arbabhussain414@gmail.com].
+For any questions or feedback, please feel free to reach out at [arbabhussain414@gmail.com](arbabhussain414@gmail.com).
 
----
-
-Feel free to modify this template according to the specific details and features of your Opzil project.
