@@ -1,3 +1,20 @@
+<p>
+<img src="https://github.com/user-attachments/assets/da769825-101d-44de-b722-0ff0ffc5a4f3" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="30%"> 
+ <img src="https://github.com/user-attachments/assets/82792ae2-4f07-424a-9f73-963c2b642d7b" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="30%"> 
+ <img src="https://github.com/user-attachments/assets/9ce7863c-6532-4ee5-b283-b3541354c63d" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;"width="30%"> 
+  </p>
+<p>
+<img src="https://github.com/user-attachments/assets/96ef7275-fdb5-4948-80b4-ec687a3eaad8" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="30%"> 
+ <img src="https://github.com/user-attachments/assets/14a3789f-4b24-46ed-bebb-f267fc815701" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="30%"> 
+ <img src="https://github.com/user-attachments/assets/934d1545-3bba-44ab-ad07-be360fcb3499" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;"width="30%"> 
+  </p>
+<p>
+<img src="https://github.com/user-attachments/assets/c8894419-099d-4ec6-8342-1ae2cf27eb67" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="30%"> 
+ <img src="https://github.com/user-attachments/assets/65f122e6-7097-4410-bd42-c2709a67eb65" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;" width="30%"> 
+ <img src="https://github.com/user-attachments/assets/339e1d67-e665-496a-a2ea-e7b1cfd281c5" alt="Image 1" style="margin-right: 10px; margin-bottom: 10px;"width="30%"> 
+  </p>
+
+
 # Opzil: ML-Based Text Extraction Application
 
 ## Overview
